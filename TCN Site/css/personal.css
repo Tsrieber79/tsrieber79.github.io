@@ -1,0 +1,24 @@
+.full-bg-img {
+	background: url(ryan-moreno-99473-unsplash.jpg);
+}
+
+#TCN_leadin {
+	font-family: 'Domine', serif;
+	font-size: 45px;
+	text-decoration: underline;
+}
+
+#TCN_sub {
+	font-family: 'Domine', serif;
+	font-size: 20px;
+}
+
+#TCN_tagline {
+	font-family: 'Roboto Slab', serif;
+	font-size: 38px;
+	color: #bdbdbd;
+}
+
+.navbar-brand {
+	color: red;
+}
